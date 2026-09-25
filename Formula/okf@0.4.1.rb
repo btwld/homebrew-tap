@@ -1,4 +1,4 @@
-# Canonical source: conceptadev/okf, tool/release/homebrew/okf.rb. Edit it
+# Canonical source: btwld/okf, tool/release/homebrew/okf.rb. Edit it
 # there and copy the result into the tap; a hand edit made only in the tap is
 # lost at the next release.
 #
@@ -12,8 +12,8 @@
 # third-party tap would make every install pull that tap in.
 class OkfAT041 < Formula
   desc "Format-first toolkit for Open Knowledge Format bundles"
-  homepage "https://github.com/conceptadev/okf"
-  url "https://github.com/conceptadev/okf/archive/refs/tags/v0.4.1.tar.gz"
+  homepage "https://github.com/btwld/okf"
+  url "https://github.com/btwld/okf/archive/refs/tags/v0.4.1.tar.gz"
   sha256 "862b7458e2c6ec687096e2792d0afaea2daa87c9ff0ee8ad09e07a5e774e71bc"
   license "Apache-2.0"
 
