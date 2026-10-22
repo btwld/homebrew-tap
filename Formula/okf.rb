@@ -13,8 +13,8 @@
 class Okf < Formula
   desc "Format-first toolkit for Open Knowledge Format bundles"
   homepage "https://github.com/btwld/okf"
-  url "https://github.com/btwld/okf/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "ee1a14c786c65466069d1efd63e6f9c87f421e7117efd0c3514767a35d40bdd6"
+  url "https://github.com/btwld/okf/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "b2256c34c56eca76799fba78c1c56cf88b731936549f13ad840dbae487b71302"
   license "Apache-2.0"
 
   # Refresh the digests from the checksum published beside each SDK archive:
